@@ -1,7 +1,3 @@
-Here’s a sample `README.md` file for a Vision Transformer (ViT) GitHub repository. This README is designed to be clear and informative for developers and researchers who want to understand, use, or contribute to the project.
-
----
-
 # Vision Transformer (ViT) 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sn2k2a6M3hw6X8_wzrWEWijXNzowbEzl?usp=sharing)
 
