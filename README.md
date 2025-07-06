@@ -132,7 +132,3 @@ Contributions are welcome! Please open an issue or pull request if you find a bu
 ## 📄 License
 
 This project is licensed under the MIT License. See `LICENSE` for more details.
-
----
-
-Let me know if you'd like a version tailored to TensorFlow or Hugging Face Transformers.
